@@ -1,5 +1,5 @@
 {
-  "esp_version": "1.7",
+  "esp_version": "1.4,
   "esp_firmware_url": "https://raw.githubusercontent.com/YousefMostafaElnopy/shatat-group/main/update.bin",
   "stm_version": "1.4",
   "stm_firmware_url": "https://raw.githubusercontent.com/YousefMostafaElnopy/shatat-group/main/updateSTM.bin",
