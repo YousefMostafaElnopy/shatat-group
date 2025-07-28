@@ -1,0 +1,7 @@
+{
+  "esp_version": "1.7",
+  "esp_firmware_url": "https://raw.githubusercontent.com/YousefMostafaElnopy/ZeroCarbon/main/update.bin",
+  "stm_version": "1.4",
+  "stm_firmware_url": "https://raw.githubusercontent.com/YousefMostafaElnopy/ZeroCarbon/main/updateSTM.bin",
+  "divce_id": "4 shatat"
+}
